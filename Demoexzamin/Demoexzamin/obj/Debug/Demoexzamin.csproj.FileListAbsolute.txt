@@ -1,0 +1,15 @@
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\bin\Debug\Demoexzamin.exe.config
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\bin\Debug\Demoexzamin.exe
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\bin\Debug\Demoexzamin.pdb
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.csprojAssemblyReference.cache
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.logpas.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.Properties.Resources.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.reg.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.csproj.GenerateResource.cache
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.csproj.CoreCompileInputs.cache
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.exe
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.pdb
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.Zakazchik.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.admin.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.kladovchik.resources
+D:\ДЭМОЭКЗАМЕН\Demoexzamin\Demoexzamin\obj\Debug\Demoexzamin.meneger.resources
